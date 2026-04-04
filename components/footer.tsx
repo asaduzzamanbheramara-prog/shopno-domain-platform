@@ -18,7 +18,8 @@ export function Footer({ companyLinks, legalLinks }: FooterProps) {
           <div>
             <p className="text-lg font-semibold tracking-[-0.03em] text-[color:var(--text)]">DigitalPlat Foundation</p>
             <p className="mt-4 max-w-md text-sm leading-7 text-[color:var(--muted)]">
-              DigitalPlat is a fiscally sponsored project of The Hack Foundation, a 501(c)(3) nonprofit. We build and operate public-interest internet infrastructure.
+              DigitalPlat is a fiscally sponsored project of The Hack Foundation, a 501(c)(3) nonprofit. We build
+              and operate internet infrastructure focused on access and long-term usefulness.
             </p>
             <div className="mt-6 space-y-2 text-sm text-[color:var(--muted)]">
               <p>DigitalPlat Foundation</p>
@@ -66,8 +67,8 @@ export function Footer({ companyLinks, legalLinks }: FooterProps) {
         <div className="section-divider my-8" />
 
         <div className="flex flex-col gap-3 text-sm text-[color:var(--subtle)] sm:flex-row sm:items-center sm:justify-between">
-          <p>Copyright © 2026 DigitalPlat Foundation.</p>
-          <p>Production infrastructure for domains, DNS, and open-source systems.</p>
+          <p>Copyright (c) 2026 DigitalPlat Foundation.</p>
+          <p>Infrastructure for domains, DNS, and open-source systems.</p>
         </div>
       </div>
     </footer>

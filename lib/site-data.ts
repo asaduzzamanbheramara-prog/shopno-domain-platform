@@ -27,23 +27,23 @@ export const supporters = [
 export const capabilities = [
   {
     title: "Domain infrastructure",
-    description: "Global domain provisioning and lifecycle systems built to keep access simple and available.",
+    description: "Global domain provisioning and management systems designed to keep online access affordable, practical, and widely available.",
   },
   {
     title: "DNS systems",
-    description: "Distributed DNS infrastructure designed for reliability, safety, and scale.",
+    description: "Distributed DNS infrastructure built for reliability, safety, and long-term operation.",
   },
   {
     title: "Developer platforms",
-    description: "APIs and tools that make infrastructure programmable and easier to operate.",
+    description: "APIs and tools that help developers and teams work with infrastructure more easily.",
   },
   {
     title: "Open-source infrastructure",
-    description: "Open-source projects that support the internet stack as shared public infrastructure.",
+    description: "Open-source projects that keep core internet tooling available as shared infrastructure.",
   },
   {
     title: "Abuse monitoring and operations",
-    description: "Systems for abuse handling, automation, and operational safety at scale.",
+    description: "Systems for abuse response, automation, and operational safety that protect communities while keeping services usable.",
   },
 ];
 
@@ -51,9 +51,9 @@ export const projects = [
   {
     name: "FreeDomain",
     eyebrow: "Global domain platform",
-    title: "Open domain infrastructure, at global scale.",
+    title: "Domain access infrastructure at global scale.",
     description:
-      "FreeDomain is a domain infrastructure platform providing free subdomains to developers, students, and builders worldwide.",
+      "FreeDomain provides free subdomains to developers, students, and community builders around the world who need a path online without upfront cost.",
     details: [
       "Automated domain provisioning",
       "DNS configuration",
@@ -61,7 +61,7 @@ export const projects = [
       "Large-scale traffic across distributed systems",
     ],
     narrative:
-      "What started as an access experiment is now a production system serving hundreds of thousands of users across the public internet.",
+      "What began as an access experiment has grown into production infrastructure serving hundreds of thousands of users across the public internet.",
     principle: "Domain access should not depend on capital.",
     ctaLabel: "Get a domain",
     ctaHref: "https://domain.digitalplat.org",
@@ -71,26 +71,26 @@ export const projects = [
     eyebrow: "Licensing data platform",
     title: "Open-source licensing infrastructure.",
     description:
-      "OpenSource.ngo provides structured, canonical open-source license data synchronized from SPDX.",
+      "OpenSource.ngo provides structured, canonical open-source license data synchronized from SPDX so maintainers, researchers, and teams can rely on a clear public reference.",
     details: [
       "167+ licenses with verified provenance",
       "Clean, structured data for developers",
       "A reliable source of truth for open-source licensing",
     ],
     narrative:
-      "The project treats licensing as infrastructure instead of scattered reference material spread across the web.",
+      "The project treats licensing as infrastructure rather than leaving critical information scattered across the web.",
     future:
-      "Next work includes license comparison systems, structured analysis tools, and governance tools for maintainers and teams.",
-    principle: "Open licensing is public infrastructure.",
+      "Next steps include license comparison systems, structured analysis tools, and governance support for maintainers and teams.",
+    principle: "Open licensing data should stay public and usable.",
     ctaLabel: "Visit OpenSource.ngo",
     ctaHref: "https://opensource.ngo",
   },
 ];
 
 export const philosophy = [
-  "Access to the internet should not depend on capital.",
-  "Infrastructure should be open by default.",
-  "Public-benefit systems should be widely available.",
+  "Access to core internet tools should not depend on wealth or geography.",
+  "Infrastructure should be open where possible.",
+  "Useful systems should be built to last.",
 ];
 
 export const footerLinks = {

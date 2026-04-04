@@ -16,7 +16,7 @@ export function Supporters({ items }: SupportersProps) {
         <div className="max-w-2xl">
           <p className="text-sm font-medium uppercase tracking-[0.28em] text-[color:var(--subtle)]">Supported by</p>
           <p className="mt-3 text-base leading-7 text-[color:var(--muted)]">
-            Backed by infrastructure and developer platform companies that support broad access to the internet.
+            Supported by infrastructure and developer platform partners that share an interest in a more open, accessible internet.
           </p>
         </div>
 
@@ -28,6 +28,7 @@ export function Supporters({ items }: SupportersProps) {
                 alt={`${item.name} logo`}
                 width={260}
                 height={88}
+                unoptimized
                 className="h-10 w-auto object-contain sm:h-12 lg:h-14"
               />
             </div>

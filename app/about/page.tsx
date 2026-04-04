@@ -10,7 +10,7 @@ export default function AboutPage() {
   return (
     <main className="mx-auto max-w-5xl px-6 py-16 sm:px-8">
       <Link href="/" className="text-sm text-[color:var(--accent)]">
-        ← Back to home
+        Back to home
       </Link>
 
       <div className="mt-6 max-w-3xl">
@@ -27,14 +27,14 @@ export default function AboutPage() {
               DigitalPlat is a nonprofit organization focused on building and operating open internet infrastructure.
             </p>
             <p>
-              The organization develops systems around domains, DNS, and developer platforms, with a focus on access,
-              reliability, and public availability. Its infrastructure is used by hundreds of thousands of users and
-              projects across a global network.
+              The organization develops systems around domains, DNS, and developer platforms with a focus on access,
+              reliability, and public availability. Its infrastructure is used by hundreds of thousands of users
+              and projects across a global network.
             </p>
             <p>
-              DigitalPlat was founded by Edward Hsing at the age of 15 as an effort to reduce barriers to accessing
-              the internet. What began as a small infrastructure experiment has since evolved into a production system
-              serving a broad and distributed user base.
+              DigitalPlat was founded by Edward Hsing at age 15 as an effort to reduce barriers to internet access.
+              What began as a small infrastructure experiment has grown into production systems that support a broad
+              and distributed public.
             </p>
           </div>
         </section>
@@ -45,7 +45,7 @@ export default function AboutPage() {
             <p>DigitalPlat Foundation</p>
             <p>Nonprofit focused on open internet infrastructure</p>
             <p>Domains, DNS, and developer systems</p>
-            <p>Global usage across a broad public network</p>
+            <p>Internet infrastructure with global reach</p>
           </div>
         </aside>
       </div>
@@ -53,20 +53,18 @@ export default function AboutPage() {
       <section className="mt-10 rounded-[2rem] border border-[color:var(--border)] bg-[color:var(--surface)] p-8 shadow-[var(--shadow)]">
         <p className="text-sm font-medium uppercase tracking-[0.28em] text-[color:var(--subtle)]">Founder</p>
         <div className="mt-6 max-w-4xl space-y-6 text-base leading-8 text-[color:var(--muted)]">
-          <p>
-            Edward Hsing is the founder of DigitalPlat Foundation and the CEO of EdgeAlphix LLC.
-          </p>
+          <p>Edward Hsing is the founder of DigitalPlat Foundation and the CEO of EdgeAlphix LLC.</p>
           <p>
             His work focuses on internet infrastructure, open systems, and large-scale developer platforms. Across
-            these efforts, he has built and operated systems used by hundreds of thousands of users globally.
+            these efforts, he has helped build and operate systems used by hundreds of thousands of people globally.
           </p>
           <p>
-            In addition to DigitalPlat, he has created multiple nonprofit and open-source projects centered around
-            access, infrastructure, and developer tooling.
+            In addition to DigitalPlat, he has launched nonprofit and open-source projects centered on access,
+            infrastructure, and developer tooling.
           </p>
           <p>
-            The work remains builder-led, with an emphasis on systems that are practical, scalable, and accessible by
-            default.
+            The organization remains builder-led, with a focus on practical systems, long-term operation, and access
+            by default.
           </p>
         </div>
       </section>
