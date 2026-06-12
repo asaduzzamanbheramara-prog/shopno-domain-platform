@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Founder Story",
-  description: "The story behind DigitalPlat from founder Edward Hsing.",
+  description: "The story behind ShopNo Domain Platform from founder Edward Hsing.",
 };
 
 export default function FounderStoryPage() {
@@ -17,7 +17,7 @@ export default function FounderStoryPage() {
       <div className="mt-6 max-w-3xl">
         <p className="text-sm font-medium uppercase tracking-[0.28em] text-[color:var(--subtle)]">Founder story</p>
         <h1 className="mt-4 text-4xl font-semibold tracking-[-0.05em] text-[color:var(--text)] sm:text-5xl">
-          I started DigitalPlat when I was 15.
+          I started ShopNo Domain Platform when I was 15.
         </h1>
       </div>
 
@@ -47,7 +47,7 @@ export default function FounderStoryPage() {
             than 190 countries.
           </p>
           <p>
-            Today, DigitalPlat operates production systems 24/7. It provides domain and DNS infrastructure used by
+            Today, ShopNo Domain Platform operates production systems 24/7. It provides domain and DNS infrastructure used by
             developers, students, and communities worldwide.
           </p>
           <p>
@@ -55,14 +55,14 @@ export default function FounderStoryPage() {
             platform. As usage grew, the focus shifted from just building to operating: keeping systems stable,
             handling abuse, and making sure the platform remains usable at scale.
           </p>
-          <p>The idea behind DigitalPlat has always been simple: the internet should be accessible to everyone.</p>
+          <p>The idea behind ShopNo Domain Platform has always been simple: the internet should be accessible to everyone.</p>
           <p>
             Not as a product, not locked behind pricing tiers, but as infrastructure people can build on freely. That
             idea shaped every decision, from keeping services open to focusing on reliability over features to
             designing systems that can actually run long-term.
           </p>
           <p>
-            Alongside DigitalPlat, I also work on infrastructure and systems projects through EdgeAlphix, as well as
+            Alongside ShopNo Domain Platform, I also work on infrastructure and systems projects through EdgeAlphix, as well as
             several open-source initiatives focused on developer tooling, container systems, and operating
             environments.
           </p>

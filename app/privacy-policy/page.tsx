@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
-  description: "DigitalPlat privacy policy.",
+  description: "ShopNo Domain Platform privacy policy.",
 };
 
 export default function PrivacyPolicyPage() {
@@ -52,7 +52,7 @@ export default function PrivacyPolicyPage() {
               Account means a unique account created for You to access our Service or parts of our Service.
             </li>
             <li>
-              Company (referred to as “the Company”, “We”, “Us”, or “Our” in this Agreement) refers to DigitalPlat
+              Company (referred to as “the Company”, “We”, “Us”, or “Our” in this Agreement) refers to ShopNo Domain Platform
               Foundation, 8605 Santa Monica Blvd, CA, 90069.
             </li>
             <li>
@@ -143,8 +143,8 @@ export default function PrivacyPolicyPage() {
           </ul>
           <p>
             To exercise any of these rights, please contact Us at{" "}
-            <Link href="mailto:contact@digitalplat.org" className="text-[color:var(--text)] hover:text-[color:var(--accent)]">
-              contact@digitalplat.org
+            <Link href="mailto:contact@shopnoltd.dpdns.org" className="text-[color:var(--text)] hover:text-[color:var(--accent)]">
+              contact@shopnoltd.dpdns.org
             </Link>{" "}
             or by calling{" "}
             <Link href="tel:+18559805959" className="text-[color:var(--text)] hover:text-[color:var(--accent)]">
@@ -186,8 +186,8 @@ export default function PrivacyPolicyPage() {
           <p>For questions about this Privacy Policy, contact us at:</p>
           <p>
             Email:{" "}
-            <Link href="mailto:contact@digitalplat.org" className="text-[color:var(--text)] hover:text-[color:var(--accent)]">
-              contact@digitalplat.org
+            <Link href="mailto:contact@shopnoltd.dpdns.org" className="text-[color:var(--text)] hover:text-[color:var(--accent)]">
+              contact@shopnoltd.dpdns.org
             </Link>
           </p>
         </section>

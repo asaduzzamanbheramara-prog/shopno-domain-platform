@@ -16,13 +16,13 @@ export function Footer({ companyLinks, legalLinks }: FooterProps) {
       <div className="rounded-[2rem] border border-[color:var(--border)] bg-[color:var(--surface-strong)] px-6 py-8 shadow-[var(--shadow)] sm:px-8">
         <div className="grid gap-10 lg:grid-cols-[1.2fr_0.8fr_0.8fr]">
           <div>
-            <p className="text-lg font-semibold tracking-[-0.03em] text-[color:var(--text)]">DigitalPlat Foundation</p>
+            <p className="text-lg font-semibold tracking-[-0.03em] text-[color:var(--text)]">ShopNo Domain Platform Foundation</p>
             <p className="mt-4 max-w-md text-sm leading-7 text-[color:var(--muted)]">
-              DigitalPlat is a fiscally sponsored project of The Hack Foundation, a 501(c)(3) nonprofit. We build
+              ShopNo Domain Platform is a fiscally sponsored project of The Hack Foundation, a 501(c)(3) nonprofit. We build
               and operate internet infrastructure focused on access and long-term usefulness.
             </p>
             <div className="mt-6 space-y-2 text-sm text-[color:var(--muted)]">
-              <p>DigitalPlat Foundation</p>
+              <p>ShopNo Domain Platform Foundation</p>
               <p>Anaheim, CA 92802</p>
               <p>United States</p>
               <p>Fiscally sponsored by The Hack Foundation (501(c)(3))</p>
@@ -34,8 +34,8 @@ export function Footer({ companyLinks, legalLinks }: FooterProps) {
               </p>
               <p>
                 Contact:{" "}
-                <Link href="mailto:contact@digitalplat.org" className="text-[color:var(--text)] hover:text-[color:var(--accent)]">
-                  contact@digitalplat.org
+                <Link href="mailto:contact@shopnoltd.dpdns.org" className="text-[color:var(--text)] hover:text-[color:var(--accent)]">
+                  contact@shopnoltd.dpdns.org
                 </Link>
               </p>
             </div>
@@ -67,7 +67,7 @@ export function Footer({ companyLinks, legalLinks }: FooterProps) {
         <div className="section-divider my-8" />
 
         <div className="flex flex-col gap-3 text-sm text-[color:var(--subtle)] sm:flex-row sm:items-center sm:justify-between">
-          <p>Copyright (c) 2026 DigitalPlat Foundation.</p>
+          <p>Copyright (c) 2026 ShopNo Domain Platform Foundation.</p>
           <p>Infrastructure for domains, DNS, and open-source systems.</p>
         </div>
       </div>

@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Cookie Policy",
-  description: "DigitalPlat cookie policy.",
+  description: "ShopNo Domain Platform cookie policy.",
 };
 
 export default function CookiePolicyPage() {
@@ -18,7 +18,7 @@ export default function CookiePolicyPage() {
       <div className="mt-8 space-y-8 text-base leading-8 text-[color:var(--muted)]">
         <section className="space-y-6">
           <p>
-            This Cookie Policy explains how DigitalPlat Foundation (“Company”, “We”, “Us”, or “Our”) uses cookies and
+            This Cookie Policy explains how ShopNo Domain Platform Foundation (“Company”, “We”, “Us”, or “Our”) uses cookies and
             similar technologies to collect, store, and analyze data when You visit Our website. By using Our website,
             You consent to the practices described in this policy unless otherwise specified.
           </p>
@@ -106,8 +106,8 @@ export default function CookiePolicyPage() {
           </ul>
           <p>
             To exercise these rights, please contact Us at{" "}
-            <Link href="mailto:contact@digitalplat.org" className="text-[color:var(--text)] hover:text-[color:var(--accent)]">
-              contact@digitalplat.org
+            <Link href="mailto:contact@shopnoltd.dpdns.org" className="text-[color:var(--text)] hover:text-[color:var(--accent)]">
+              contact@shopnoltd.dpdns.org
             </Link>{" "}
             or call{" "}
             <Link href="tel:+18559805959" className="text-[color:var(--text)] hover:text-[color:var(--accent)]">
@@ -130,8 +130,8 @@ export default function CookiePolicyPage() {
           <p>If You have any questions or concerns about this Cookie Policy, contact us at:</p>
           <p>
             Email:{" "}
-            <Link href="mailto:contact@digitalplat.org" className="text-[color:var(--text)] hover:text-[color:var(--accent)]">
-              contact@digitalplat.org
+            <Link href="mailto:contact@shopnoltd.dpdns.org" className="text-[color:var(--text)] hover:text-[color:var(--accent)]">
+              contact@shopnoltd.dpdns.org
             </Link>
           </p>
           <p>

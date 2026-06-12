@@ -15,7 +15,7 @@ export default function HomePage() {
         <Link href="/" className="flex items-center">
           <Image
             src="/images/logo.png"
-            alt="DigitalPlat"
+            alt="ShopNo Domain Platform"
             width={180}
             height={40}
             unoptimized
@@ -48,7 +48,7 @@ export default function HomePage() {
                 About
               </Link>
               <Link
-                href="https://github.com/digitalplatdev"
+                href="https://github.com/shopnoltd"
                 target="_blank"
                 rel="noreferrer"
                 className="rounded-xl px-4 py-3 hover:bg-white"
@@ -68,7 +68,7 @@ export default function HomePage() {
           <Link href="/about" className="hover:text-[color:var(--text)]">
             About
           </Link>
-          <Link href="https://github.com/digitalplatdev" target="_blank" rel="noreferrer" className="hover:text-[color:var(--text)]">
+          <Link href="https://github.com/shopnoltd" target="_blank" rel="noreferrer" className="hover:text-[color:var(--text)]">
             GitHub
           </Link>
         </nav>
@@ -78,7 +78,7 @@ export default function HomePage() {
 
       <Section
         title="These systems already serve real communities."
-        description="DigitalPlat operates live infrastructure at meaningful scale. These systems are already in use across a global network of developers, projects, and communities."
+        description="ShopNo Domain Platform operates live infrastructure at meaningful scale. These systems are already in use across a global network of developers, projects, and communities."
       >
         <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
           {proofPoints.map((point) => (
@@ -141,12 +141,12 @@ export default function HomePage() {
       <Section
         eyebrow="Why it exists"
         title="The internet belongs to everyone."
-        description="DigitalPlat is built on a simple idea: access to basic infrastructure should not be limited by cost, geography, or institutional access."
+        description="ShopNo Domain Platform is built on a simple idea: access to basic infrastructure should not be limited by cost, geography, or institutional access."
       >
         <div className="rounded-[2rem] border border-[color:var(--border)] bg-[color:var(--surface-strong)] p-8 shadow-[var(--shadow)]">
           <div className="max-w-4xl space-y-6 text-base leading-8 text-[color:var(--muted)]">
             <p>
-              By lowering the barriers to getting online, DigitalPlat enables individuals, students, and independent
+              By lowering the barriers to getting online, ShopNo Domain Platform enables individuals, students, and independent
               builders to create, publish, and participate on their own terms.
             </p>
             <p>
@@ -165,7 +165,7 @@ export default function HomePage() {
       <Section
         id="founder-story"
         eyebrow="Founder story"
-        title="I started DigitalPlat when I was 15."
+        title="I started ShopNo Domain Platform when I was 15."
         description="What began as an experiment to understand how the internet works has grown into infrastructure used by hundreds of thousands of people worldwide."
       >
         <Link
@@ -177,7 +177,7 @@ export default function HomePage() {
       </Section>
 
       <Section
-        title="Work with DigitalPlat"
+        title="Work with ShopNo Domain Platform"
         description="We collaborate with builders, maintainers, funders, and organizations working on real systems. If the work touches infrastructure, public access, digital rights, reliability, or open technology, we want to hear from you."
       >
         <div className="flex flex-col items-start justify-between gap-6 rounded-[2rem] border border-[color:var(--border)] bg-slate-950 px-8 py-8 text-white shadow-[var(--shadow)] lg:flex-row lg:items-center">
@@ -185,7 +185,7 @@ export default function HomePage() {
             Partnerships, infrastructure collaboration, fiscal sponsorship conversations, and general inquiries all route through the same channel.
           </p>
           <Link
-            href="mailto:contact@digitalplat.org"
+            href="mailto:contact@shopnoltd.dpdns.org"
             className="inline-flex items-center rounded-full bg-white px-6 py-3 text-sm font-medium text-slate-950 transition-colors hover:bg-slate-100"
           >
             Get in touch

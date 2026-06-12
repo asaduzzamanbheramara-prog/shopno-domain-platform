@@ -11,13 +11,13 @@ export function Hero() {
     <section className="mx-auto flex w-full max-w-7xl flex-col gap-12 px-6 pb-14 pt-8 sm:px-8 sm:pb-20 sm:pt-12 lg:flex-row lg:items-end lg:gap-16">
       <div className="max-w-3xl flex-1">
         <div className="inline-flex rounded-full border border-[color:var(--border)] bg-[color:var(--surface)] px-4 py-2 text-sm text-[color:var(--muted)] backdrop-blur-sm">
-          DigitalPlat Foundation | Open internet infrastructure
+          ShopNo Domain Platform Foundation | Open internet infrastructure
         </div>
         <h1 className="mt-8 max-w-3xl text-5xl font-semibold tracking-[-0.07em] text-[color:var(--text)] sm:text-6xl lg:text-7xl">
           Internet infrastructure built for public access.
         </h1>
         <p className="mt-6 max-w-2xl text-lg leading-8 text-[color:var(--muted)] sm:text-xl">
-          DigitalPlat builds and runs domain, DNS, and developer systems used by hundreds of thousands of people,
+          ShopNo Domain Platform builds and runs domain, DNS, and developer systems used by hundreds of thousands of people,
           projects, and communities worldwide.
         </p>
         <div className="mt-8 flex flex-col gap-3 sm:flex-row">

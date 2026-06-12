@@ -8,16 +8,16 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://digitalplat.org"),
+  metadataBase: new URL("https://shopnoltd.dpdns.org"),
   title: {
-    default: "DigitalPlat | Open infrastructure, in production.",
-    template: "%s | DigitalPlat",
+    default: "ShopNo Domain Platform | Open infrastructure, in production.",
+    template: "%s | ShopNo Domain Platform",
   },
   description:
-    "DigitalPlat builds and operates open-access systems for domains, DNS, and developer infrastructure used by hundreds of thousands of users globally.",
-  applicationName: "DigitalPlat",
+    "ShopNo Domain Platform builds and operates open-access systems for domains, DNS, and developer infrastructure used by hundreds of thousands of users globally.",
+  applicationName: "ShopNo Domain Platform",
   keywords: [
-    "DigitalPlat",
+    "ShopNo Domain Platform",
     "open infrastructure",
     "DNS",
     "domain infrastructure",
@@ -27,19 +27,19 @@ export const metadata: Metadata = {
     "OpenSource.ngo",
   ],
   openGraph: {
-    title: "DigitalPlat | Open infrastructure, in production.",
+    title: "ShopNo Domain Platform | Open infrastructure, in production.",
     description:
-      "DigitalPlat builds and operates open-access systems for domains, DNS, and developer infrastructure used by hundreds of thousands of users globally.",
-    url: "https://digitalplat.org",
-    siteName: "DigitalPlat",
+      "ShopNo Domain Platform builds and operates open-access systems for domains, DNS, and developer infrastructure used by hundreds of thousands of users globally.",
+    url: "https://shopnoltd.dpdns.org",
+    siteName: "ShopNo Domain Platform",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "DigitalPlat | Open infrastructure, in production.",
+    title: "ShopNo Domain Platform | Open infrastructure, in production.",
     description:
-      "DigitalPlat builds and operates open-access systems for domains, DNS, and developer infrastructure used by hundreds of thousands of users globally.",
+      "ShopNo Domain Platform builds and operates open-access systems for domains, DNS, and developer infrastructure used by hundreds of thousands of users globally.",
   },
   icons: {
     icon: "/images/favicon.ico",

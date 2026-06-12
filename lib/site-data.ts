@@ -64,7 +64,7 @@ export const projects = [
       "What began as an access experiment has grown into production infrastructure serving hundreds of thousands of users across the public internet.",
     principle: "Domain access should not depend on capital.",
     ctaLabel: "Get a domain",
-    ctaHref: "https://domain.digitalplat.org",
+    ctaHref: "https://domain.shopnoltd.dpdns.org",
   },
   {
     name: "OpenSource.ngo",
@@ -98,9 +98,9 @@ export const footerLinks = {
     { label: "Infrastructure", href: "#infrastructure" },
     { label: "Projects", href: "#projects" },
     { label: "About", href: "/about" },
-    { label: "Donate", href: "https://hcb.hackclub.com/donations/start/digitalplat" },
-    { label: "Contact", href: "mailto:contact@digitalplat.org" },
-    { label: "GitHub", href: "https://github.com/digitalplatdev" },
+    { label: "Donate", href: "https://hcb.hackclub.com/donations/start/shopno" },
+    { label: "Contact", href: "mailto:contact@shopnoltd.dpdns.org" },
+    { label: "GitHub", href: "https://github.com/shopnoltd" },
   ],
   legal: [
     { label: "Privacy Policy", href: "/privacy-policy" },
